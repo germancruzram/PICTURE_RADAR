@@ -4,7 +4,7 @@
 
 ### 📝 Descripción General
 
-**PICTURE RADAR** es un sistema avanzado de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática para revolucionar la gestión de infraestructura vial. La aplicación está construida sobre una arquitectura moderna y robusta que aprovecha las mejores prácticas de desarrollo y tecnologías de código abierto.
+**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática para contribuir a la gestión de infraestructura vial en Nicaragua. Puede ser aplicable a otras vialidades conectando a la malla GIS correspondiente.
 
 ### 🛠️ Stack Tecnológico
 
@@ -12,7 +12,7 @@
 - **Python**: Lenguaje principal de desarrollo
   - **Pillow**: Motor de procesamiento y manipulación de imágenes
   - **Pandas**: Análisis y procesamiento de datos geoespaciales
-  - **SQLite3**: Gestión de base de datos espacial
+  - **SQLite3**: Gestión de datos espaciales
   - **Requests**: Integración con servicios externos y GitHub
 
 #### Componentes Especializados
@@ -24,7 +24,7 @@
    - Sistema de anotación automática
 
 2. **Sistema Geoespacial**:
-   - Base de datos GIS con +500,000 puntos de referencia
+   - Base GIS con +500,000 puntos de referencia
    - Consultas espaciales optimizadas
    - Algoritmos de proximidad geográfica
    - Cálculos de distancia precisos
@@ -42,25 +42,18 @@
 - Optimización de consultas espaciales
 - Análisis de grandes volúmenes de metadatos
 
-#### 2. Implementación de Ciencia de Datos
-- Algoritmos de análisis espacial
-- Procesamiento automatizado
-- Generación de reportes estadísticos
-- Análisis predictivo de mantenimiento
-
-#### 3. Aplicación de Geomática
-- Precisión geográfica < 50m
+#### 2. Aplicación de Geomática
+- Precisión geográfica < 30m
 - Sistema de referencia geoespacial
-- Análisis topológico
-- Cartografía digital
+- Validación y control 
+
 
 ### 📊 Métricas de Rendimiento
 
 | Métrica | Valor |
 |---------|-------|
 | Eficiencia | Procesamiento optimizado de imágenes |
-| Precisión | Geolocalización con error < 50m |
-| Confiabilidad | Tasa de éxito > 99% |
+| Precisión | Geolocalización con error < 30m |
 | Escalabilidad | Arquitectura modular preparada para crecimiento |
 
 ### 🎯 Aplicaciones en Gestión Vial
@@ -84,6 +77,7 @@
 - Automatización de tareas repetitivas
 - Mejora en la precisión de datos
 - Estandarización de procesos
+- Reducción del sesgo 
 
 #### Estratégicos
 - Toma de decisiones basada en datos
@@ -101,17 +95,7 @@
 
 ---
 
-> 💡 **Nota**: Esta solución representa una herramienta fundamental para organizaciones que requieren gestionar y documentar infraestructura vial de manera eficiente y precisa, aprovechando las últimas tecnologías en procesamiento de datos geoespaciales y análisis de imágenes. La combinación de tecnologías modernas con prácticas de desarrollo robustas asegura un sistema confiable y escalable para las necesidades actuales y futuras en la gestión de infraestructura.
+> 💡 **Nota**: Picture Radar contribuye a gestionar y documentar la gestión en la infraestructura vial de manera eficiente y precisa, aprovechando las tecnologías en procesamiento de datos geoespaciales y análisis de imágenes. Su diseño permite la integración progresiva de nuevas funcionalidades y el manejo de volúmenes crecientes de datos. Su robusta arquitectura de procesamiento geoespacial y análisis de imágenes está preparada para adaptarse a las demandas futuras
 
 ---
-
-### 📚 Referencias y Documentación
-
-Para más información sobre la implementación y uso del sistema, consulte:
-- Documentación técnica
-- Guías de usuario
-- Ejemplos de implementación
-- API de referencia
-
----
-*Última actualización: 2025*
+*Última actualización: Enero 2025*
