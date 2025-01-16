@@ -5,7 +5,7 @@
 ### 📝 Descripción General
 
 **PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, big data y geomática a fin de contribuir a la gestión de infraestructura vial.
-Link de descarga: https://github.com/germancruzram/PICTURE_RADAR/releases/download/Picture-Radar/Picture_Radar.zip
+Link de descarga: https://github.com/germancruzram/PICTURE_RADAR/releases/download/Picture-Radar/Picture.Radar.2.0.zip
 
 ### 🗺️ Mapa Mental del Sistema
 
