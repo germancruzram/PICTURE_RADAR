@@ -1,10 +1,10 @@
 # PICTURE RADAR
 
-## 🚀 Sistema Avanzado de Procesamiento de Imágenes GPS y Geolocalización
+## 🚀 Sistema para Procesamiento de Imágenes GPS y Geolocalización
 
 ### 📝 Descripción General
 
-**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática a fin de contribuir a la gestión de infraestructura vial.
+**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, big data y geomática a fin de contribuir a la gestión de infraestructura vial.
 Link de descarga: https://github.com/germancruzram/PICTURE_RADAR/releases/download/Picture-Radar/Picture_Radar.zip
 
 ### 🗺️ Mapa Mental del Sistema
@@ -89,8 +89,7 @@ graph LR
    - Integración con GitHub para actualizaciones
    - Sistema de logging para monitoreo
    - Gestión automática de recursos
-   - Control de versiones
-
+   
 ### 🎯 Características Principales
 
 #### 1. Capacidades de Big Data
@@ -115,8 +114,7 @@ graph LR
 ### 🎯 Aplicaciones en Gestión Vial
 
 #### 1. Documentación Técnica
-- Generación automática de informes
-- Registro fotográfico georeferenciado
+- Registro fotográfico con mayor precisión
 - Histórico de intervenciones
 - Trazabilidad de inspecciones
 
@@ -124,7 +122,7 @@ graph LR
 - Identificación de puntos críticos
 - Priorización de intervenciones
 - Optimización de recursos
-- Seguimiento de mantenimiento
+- Seguimiento del mantenimiento
 
 ### 💡 Beneficios Clave
 
@@ -140,14 +138,6 @@ graph LR
 - Optimización de recursos
 - Mejora en la planificación
 - Documentación técnica robusta
-
-### 🔒 Seguridad y Mantenimiento
-
-- Control de acceso integrado
-- Protección de datos
-- Actualizaciones automáticas
-- Monitoreo continuo
-- Trazabilidad completa
 
 ---
 
