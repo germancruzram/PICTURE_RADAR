@@ -4,12 +4,12 @@
 
 ### 📝 Descripción General
 
-**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática para contribuir a la gestión de infraestructura.
+**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática a fin de contribuir a la gestión de infraestructura vial.
 
 ### 🛠️ Stack Tecnológico
 
 #### Core Technologies
-- **Python**: Lenguaje principal de desarrollo
+- **Python**: Lenguaje lider para ciencia de datos e inteligencia artificial
   - **Pillow**: Motor de procesamiento y manipulación de imágenes
   - **Pandas**: Análisis y procesamiento de datos geoespaciales
   - **SQLite3**: Gestión de datos espaciales
