@@ -7,6 +7,61 @@
 **PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática a fin de contribuir a la gestión de infraestructura vial.
 Link de descarga: https://github.com/germancruzram/PICTURE_RADAR/releases/download/Picture-Radar/Picture_Radar.zip
 
+### 🗺️ Mapa Mental del Sistema
+
+````mermaid
+graph LR
+    %% Título central
+    PICTURE_RADAR(("🎯 PICTURE RADAR"))
+
+    %% Ramas principales hacia la izquierda
+    ProcImg{"🖼️ Procesamiento\nde Imágenes"} --> PICTURE_RADAR
+    EXIF{"📊 Extracción\nEXIF"} --> PICTURE_RADAR
+    Results{"📋 Resultados"} --> PICTURE_RADAR
+
+    %% Ramas principales hacia la derecha
+    PICTURE_RADAR --> Geo{"🌍 Geolocalización"}
+    PICTURE_RADAR --> Auto{"⚙️ Automatización"}
+    PICTURE_RADAR --> Tech{"💻 Tecnologías"}
+
+    %% Subramas de Procesamiento de Imágenes (2do nivel)
+    Manip["🔧 Manipulación"] --> ProcImg
+    Form["📁 Formatos"] --> ProcImg
+
+    %% Subramas de Extracción EXIF (2do nivel)
+    Meta["📝 Metadatos"] --> EXIF
+    GPS["📍 Coordenadas\nGPS"] --> EXIF
+
+    %% Subramas de Resultados (2do nivel)
+    Rep["📊 Reportes"] --> Results
+    ImgProc["🖼️ Imágenes\nprocesadas"] --> Results
+
+    %% Subramas de Geolocalización (2do nivel)
+    Calc["🔢 Cálculos"] --> Geo
+    MallaGIS["🗺️ Malla GIS"] --> Geo
+
+    %% Subramas de Automatización (2do nivel)
+    SisArch["📂 Sistema\narchivos"] --> Auto
+    Git["🔄 GitHub"] --> Auto
+
+    %% Subramas de Tecnologías (2do nivel)
+    Log["📝 Logging"] --> Tech
+    Py["🐍 Python"] --> Tech
+
+    %% Estilos
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef central fill:#4A90E2,color:#fff,stroke:#2171C7,stroke-width:3px;
+    classDef primary fill:#67B8DE,color:#fff,stroke:#4A90E2,stroke-width:2px;
+    classDef secondary fill:#f0f7fa,stroke:#67B8DE,stroke-width:1px;
+    
+    %% Aplicación de estilos
+    class PICTURE_RADAR central;
+    class ProcImg,EXIF,Results,Geo,Auto,Tech primary;
+    class Manip,Form,Meta,GPS,Rep,ImgProc,Calc,MallaGIS,SisArch,Git,Log,Py secondary;
+
+    %% Configuración de enlaces
+    linkStyle default stroke:#666,stroke-width:2px;
+
 ### 🛠️ Stack Tecnológico
 
 #### Core Technologies
