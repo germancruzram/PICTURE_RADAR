@@ -33,7 +33,7 @@ graph LR
     GPS["📍 Coordenadas\nGPS"] --> EXIF
 
     %% Subramas de Resultados (2do nivel)
-    Rep["📊 Reportes"] --> Results
+    Rep["📊 Archivo re-etiquetados"] --> Results
     ImgProc["🖼️ Imágenes\nprocesadas"] --> Results
 
     %% Subramas de Geolocalización (2do nivel)
