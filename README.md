@@ -95,7 +95,7 @@
 
 ---
 
-> 💡 **Nota**: Picture Radar contribuye a gestionar y documentar la gestión en la infraestructura vial de manera eficiente y precisa, aprovechando las tecnologías en procesamiento de datos geoespaciales y análisis de imágenes. Su diseño permite la integración progresiva de nuevas funcionalidades y el manejo de volúmenes crecientes de datos. Su robusta arquitectura de procesamiento geoespacial y análisis de imágenes está preparada para adaptarse a las demandas futuras
+> 💡 **Nota**: Picture Radar contribuye a gestionar y documentar la gestión vial con imágenes, aprovechando las tecnologías en procesamiento de datos geoespaciales. Su diseño permite la integración progresiva de nuevas funcionalidades y el manejo de volúmenes crecientes de datos.
 
 ---
 *Última actualización: Enero 2025*
