@@ -61,7 +61,7 @@ graph LR
 
     %% Configuración de enlaces
     linkStyle default stroke:#666,stroke-width:2px;
-
+````
 ### 🛠️ Stack Tecnológico
 
 #### Core Technologies
