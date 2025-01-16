@@ -4,7 +4,7 @@
 
 ### 📝 Descripción General
 
-**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática para contribuir a la gestión de infraestructura vial en Nicaragua. Puede ser aplicable a otras vialidades conectando a la malla GIS correspondiente.
+**PICTURE RADAR** es una herramienta de procesamiento de imágenes que integra tecnologías de ciencia de datos, Big Data y geomática para contribuir a la gestión de infraestructura.
 
 ### 🛠️ Stack Tecnológico
 
