@@ -80,7 +80,7 @@ graph LR
    - Sistema de anotación automática
 
 2. **Sistema Geoespacial**:
-   - Base GIS con +500,000 puntos de referencia
+   - Base GIS con +1M puntos de referencia
    - Consultas espaciales optimizadas
    - Algoritmos de proximidad geográfica
    - Cálculos de distancia precisos
